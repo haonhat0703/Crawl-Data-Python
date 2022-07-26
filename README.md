@@ -34,3 +34,9 @@ Nếu muốn dễ nhìn như hình bạn cần cài thêm một extension cho tr
 Như hình trên, để lấy được dữ liệu tên truyện ta chỉ cần truy cập đến trường ***name*** trong ***result/data***
 
 Để ý thêm tại đường link trang API chỉ cần thay đổi số sau **/new?p=** thì ta có dữ liệu trang tiếp theo. 
+
+## 4. Tổng kết
+
+Ý tưởng cơ bản là như vậy, bạn đọc hãy nghiên cứu code nhé <(^-^)>.
+
+Bài viết còn rất lủng củng, mong mọi người thứ lỗi. Damn!!!

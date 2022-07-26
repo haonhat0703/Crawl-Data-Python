@@ -42,5 +42,5 @@ Như hình trên, để lấy được dữ liệu tên truyện ta chỉ cần 
 Bài viết còn rất lủng củng, mong mọi người thứ lỗi.
 
 ***Damn!!!Wibu is the best***
-
+![image](https://i.pinimg.com/200x150/5a/73/fc/5a73fc423572b3067edcd1357e10562e.jpg)
 

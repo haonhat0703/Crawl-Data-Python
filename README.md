@@ -19,6 +19,11 @@ Tiếp theo truy cập vào trang web bạn muốn lấy dữ liệu, ở đây 
 
 Sử dụng F12 hoặc click chuột trái chọn Inspect (Kiểm tra) để mở cửa sổ Kiểm tra phần tử
 
-Tại cửa sổ này, ta chọn đến Network -> Fetch/XHR rồi reload lại trang để gửi lại HTTP request
+Tại cửa sổ này, ta chọn đến Network -> Fetch/XHR rồi reload lại trang để gửi lại HTTP request (xem hình minh họa)
 
 ![image](https://user-images.githubusercontent.com/92797788/180935132-dae0552b-df8e-4aed-abc9-2a67794fbc35.png)
+
+Tiếp theo ta double click vào "new?p=0", sẽ mở ra một tab mới như hình bên dưới
+
+![image](https://user-images.githubusercontent.com/92797788/180935558-d942b18c-0c90-4d8e-adf8-b42c17a898c2.png)
+

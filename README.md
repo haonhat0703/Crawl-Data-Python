@@ -14,3 +14,6 @@ pip install requests
 ```
 
 Tiếp theo truy cập vào trang web bạn muốn lấy dữ liệu, ở đây mình lấy dữ liệu từ trang https://goctruyentranhhay.com
+
+## Lấy dữ liệu thô của trang web
+Sử dụng F12 hoặc click chuột trái chọn Inspect(Kiểm tra) để mở cửa sổ Kiểm tra phần tử 

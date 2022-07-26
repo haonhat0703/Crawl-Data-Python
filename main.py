@@ -1,8 +1,6 @@
 import requests
 import json
-import jsons
-from bs4 import BeautifulSoup
-#[]
+
 links = 'https://goctruyentranhhay.com/api/comic/search/recent?p='
 
 f = open("Data.txt", 'w', encoding = 'utf8')

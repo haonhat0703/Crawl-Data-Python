@@ -13,3 +13,4 @@ Trong bài viết này, mình xin trình bày cách lấy dữ liệu trong mộ
 pip install requests
 ```
 
+Tiếp theo truy cập vào trang web bạn muốn lấy dữ liệu, ở đây mình lấy dữ liệu từ trang https://goctruyentranhhay.com

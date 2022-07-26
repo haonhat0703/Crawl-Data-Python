@@ -27,3 +27,4 @@ Tiếp theo ta double click vào **new?p=0**, sẽ mở ra một tab mới như 
 
 ![image](https://user-images.githubusercontent.com/92797788/180935558-d942b18c-0c90-4d8e-adf8-b42c17a898c2.png)
 
+Nếu muốn dễ nhìn như hình bạn cần cài thêm một extension cho trình duyệt chrome [tại đây](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)

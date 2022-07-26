@@ -16,5 +16,7 @@ pip install requests
 Tiếp theo truy cập vào trang web bạn muốn lấy dữ liệu, ở đây mình lấy dữ liệu từ trang [https://goctruyentranhhay.com](https://goctruyentranhhay.com/danh-sach?type=NEW)
 
 ## Lấy dữ liệu thô của trang web
+
 Sử dụng F12 hoặc click chuột trái chọn Inspect (Kiểm tra) để mở cửa sổ Kiểm tra phần tử
+
 Tại cửa sổ này, ta chọn đến Network -> Fetch/XHR rồi reload lại trang để gửi lại HTTP request

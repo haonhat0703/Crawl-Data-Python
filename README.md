@@ -39,6 +39,8 @@ Như hình trên, để lấy được dữ liệu tên truyện ta chỉ cần 
 
 Ý tưởng cơ bản là như vậy, bạn đọc hãy nghiên cứu code nhé <(^-^)>.
 
-Bài viết còn rất lủng củng, mong mọi người thứ lỗi. ***Damn!!!Wibu is the best***
+Bài viết còn rất lủng củng, mong mọi người thứ lỗi.
+
+****Damn!!!Wibu is the best****
 
 

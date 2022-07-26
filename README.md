@@ -31,6 +31,6 @@ Nếu muốn dễ nhìn như hình bạn cần cài thêm một extension cho tr
 
 ## 3. Phân tích dữ liệu
 
-Như hình trên, để lấy được dữ liệu tên truyện ta chỉ cần truy cập đến trường ***data*** trong ***result***
+Như hình trên, để lấy được dữ liệu tên truyện ta chỉ cần truy cập đến trường ***name*** trong ***result/data***
 
 Để ý thêm tại đường link trang API chỉ cần thay đổi số sau **/new?p=** thì ta có dữ liệu trang tiếp theo. 
